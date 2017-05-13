@@ -1,5 +1,5 @@
 <?php
-  require_once $_SERVER['DOCUMENT_ROOT'].'/ecom/core/init.php';
+  require_once '../core/init.php';
   session_start();
   include 'includes/head.php';
   include 'includes/navigation.php';
